@@ -9,7 +9,7 @@ export default function About() {
         <h1 className="text-4xl font-bold text-white mb-4">About Us</h1>
         <p className="text-lg text-gray-300 mb-8">
           Our LMS platform leverages cutting-edge WebVM CheerpX and a robust Linux environment to bring you interactive Python lessons.
-          Whether you're starting from scratch or advancing your skills, our modules guide you with hands-on coding and real-time feedback.
+          Whether you&apos;re starting from scratch or advancing your skills, our modules guide you with hands-on coding and real-time feedback.
         </p>
         <Link
           href="/"

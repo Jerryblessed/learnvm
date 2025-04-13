@@ -120,6 +120,12 @@ Try:
     }
 ];
 
+type CheerpXInstance = {
+    setConsole: (el: HTMLPreElement) => void;
+    run: (cmd: string, args: string[], options: Record<string, any>) => Promise<void>;
+};
+
+
 export default function Workspace() {
     const consoleRef = useRef<HTMLPreElement>(null);
     const [currentLessonIndex, setCurrentLessonIndex] = useState(0);
@@ -127,7 +133,8 @@ export default function Workspace() {
     const [success, setSuccess] = useState(false);
     const [loading, setLoading] = useState(false);
     const [consoleVisible, setConsoleVisible] = useState(true);
-    const [cheerpXInstance, setCheerpXInstance] = useState<any>(null);
+    const [cheerpXInstance, setCheerpXInstance] = useState<CheerpXInstance | null>(null);
+
     const [output, setOutput] = useState("");
     const [showIframe, setShowIframe] = useState(false);
 
