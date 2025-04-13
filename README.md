@@ -12,7 +12,7 @@ This project builds upon the work done during the [WebVM Hackathon](https://gith
 
 **Slide deck**
 
-Presentation slide for [LearnVM.](https://github.com/Jerryblessed/learnvm/blob/main/presentation/LearnVM.pptx).
+Presentation slide for [LearnVM.](https://github.com/Jerryblessed/learnvm/raw/refs/heads/main/presentation/LearnVM.pptx).
 
 ---
 
