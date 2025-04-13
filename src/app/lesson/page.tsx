@@ -120,9 +120,10 @@ Try:
     }
 ];
 
+
 type CheerpXInstance = {
     setConsole: (el: HTMLPreElement) => void;
-    run: (cmd: string, args: string[], options: Record<string, any>) => Promise<void>;
+    run: (cmd: string, args: string[], options: Record<string, unknown>) => Promise<void>;
 };
 
 
