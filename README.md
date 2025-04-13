@@ -105,7 +105,7 @@ npm run dev
 
 ## 🌟 Acknowledgment
 
-This platform builds upon our winning solution at the [WebVM Hackathon](https://github.com/leaningtech/WebVMHackathon/blob/main/results2024.md), where we explored client-side Linux execution with CheerpX. LearnVM evolves that prototype into a complete educational tool.
+This platform builds upon previous winning solution at the [WebVM Hackathon](https://github.com/leaningtech/WebVMHackathon/blob/main/results2024.md), where client-side Linux execution with CheerpX was explored. LearnVM evolves that prototype into a complete educational tool for Linux.
 
 ---
 
