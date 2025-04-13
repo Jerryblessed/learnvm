@@ -7,9 +7,10 @@
   <meta charset="UTF-8">
   <title>Linux Tutor</title>
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="{{ url_for('static', filename='chat.js') }}"></script>
+
     <script src="https://aka.ms/csspeech/jsbrowserpackageraw"></script>
-    <script src="chat.js"></script>
     <script>
         window.onload = function () {
             document.getElementById('startSession').click();
