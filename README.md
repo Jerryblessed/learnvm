@@ -4,9 +4,18 @@
 
 LearnVM is an interactive browser-based learning platform that teaches Linux through real-time command execution, AI-driven assistance, and gamified progression. It provides users with a Linux terminal experience powered entirely in-browser using **CheerpX**, allowing learners to practice and master Linux skills without installing any software.
 
-This project builds upon the work we did during the [WebVM Hackathon](https://github.com/leaningtech/WebVMHackathon/blob/main/results2024.md), where our project won for its innovative use of WebAssembly and client-side virtual environments.
+This project builds upon the work done during the [WebVM Hackathon](https://github.com/leaningtech/WebVMHackathon/blob/main/results2024.md), where a project won for its innovative use of WebAssembly and client-side virtual environments.
 
 ---
+
+# Presentation 💻
+
+**Slide deck**
+
+Presentation slide for [LearnVM.](https://github.com/Jerryblessed/learnvm/blob/main/presentation/LearnVM.pptx).
+
+---
+
 
 ## 📄 Overview
 
