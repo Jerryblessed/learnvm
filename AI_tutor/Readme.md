@@ -13,3 +13,5 @@ python app.py
 
 Then visit: http://localhost:5000/chat
 You’ll be able to chat with the AI avatar about Linux commands!
+
+
