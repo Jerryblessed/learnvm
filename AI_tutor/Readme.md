@@ -9,6 +9,7 @@ After cloning the main LearnVM repository:
 
 ```bash
 cd learnvm/ai_tutor
+pip install flask
 python app.py
 
 Then visit: http://localhost:5000/chat
